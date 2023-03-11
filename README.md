@@ -1,8 +1,8 @@
-# Schneider Electric Datascience Hackathon - Satellite Imagery Classification
+# Schneider Electric Datascience Hackathon - Satellite Imagery Classification
 
 This project is about image classification of satellite imagery, which was a problem presented in the Schneider Electric datascience hackathon. Our team has performed data analysis and visualizations, trained a Deep Convolutional Neural Network called EfficientNetV2S, and achieved competitive results.
 
-## Problem
+## Problem
 The problem was to classify satellite images into one of the three possible classes. 
 The dataset provided by Schneider Electric had a total of 1700 images for training the model. The challenge was to train a model that could accurately classify these images. 
 
@@ -16,7 +16,7 @@ We decided to use EfficientNetV2S, a state-of-the-art deep learning architecture
 
 We trained the model for 75 epochs and achieved a validation accuracy of 61%, which is competitive compared to other participants in the hackathon.
 
-## Future Steps
+## Future Steps
 
 Our future steps include applying transfer learning using pre-trained models to further improve the model's performance. We plan to use pre-trained models such as ResNet, VGG, and Inception, and fine-tune them on our dataset.
 
