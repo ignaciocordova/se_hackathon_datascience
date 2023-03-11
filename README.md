@@ -1,4 +1,4 @@
-Schneider Electric Datascience Hackathon - Satellite Imagery Classification
+## Schneider Electric Datascience Hackathon - Satellite Imagery Classification
 This project is about image classification of satellite imagery, which was a problem presented in the Schneider Electric datascience hackathon. Our team has performed data analysis and visualizations, trained a Deep Convolutional Neural Network called EfficientNetV2S, and achieved competitive results.
 
 Problem
